@@ -8,5 +8,8 @@ Services Used:
 4. DynamoDB
 5. GitHub CI/CD
 
-Link:
-https://dp2cmsdbma23y.cloudfront.net/
+Screenshots:
+
+![Screenshot (1044)](https://github.com/user-attachments/assets/47ccf0ec-f34e-46d1-a54e-f3315e89d040)
+
+![Screenshot (1043)](https://github.com/user-attachments/assets/2236ff5d-fcbc-424f-b978-4168b3368141)
